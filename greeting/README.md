@@ -1,1 +1,0 @@
-solution for greetings builder found at https://roadmap.sh/projects/js-greeting-builder
